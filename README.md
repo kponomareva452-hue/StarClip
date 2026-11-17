@@ -9,6 +9,14 @@ Speed is controlled by a potentiometer. Powered by a CR2032 coin cell.
 ![3D Front](front.png)
 ![PCB Editor](pcbEditor.png)
 
+## Watch it working
+
+<video src="video.mp4" controls width="100%"></video>
+
+Or [download the video](video.mp4)
+
+---
+
 ## Features
 - 5 × 0805 LEDs
 - LM555 timer (SOIC-8)
