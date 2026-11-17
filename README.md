@@ -1,2 +1,26 @@
 # StarLight
-StarLight – variable speed blinking LED star PCB (KiCad). 5 LEDs, 555 timer, potentiometer speed control, CR2032.
+
+Variable-speed blinking LED star PCB designed in KiCad.
+
+A 5-pointed star with 5 LEDs driven by a 555 timer.
+Speed is controlled by a potentiometer. Powered by a CR2032 coin cell.
+
+## Features
+- 5 × 0805 LEDs
+- LM555 timer
+- Potentiometer speed control
+- CR2032 battery holder
+- On/Off switch
+- Ready-to-order Gerber files included
+
+## Files
+- KiCad project files (`StarProject.*`)
+- Gerber files in `Gerbers/` folder (ready for PCB manufacturing)
+- BOM in `StarProject.csv`
+
+## How to open
+1. Install [KiCad](https://www.kicad.org/)
+2. Open `StarProject.kicad_pro`
+
+## License
+Open hardware – feel free to use, modify and share.
