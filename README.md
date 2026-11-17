@@ -1,4 +1,4 @@
-# StarLight
+# StarClip
 
 Variable-speed blinking LED star PCB designed in KiCad.
 
