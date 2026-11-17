@@ -11,9 +11,11 @@ Speed is controlled by a potentiometer. Powered by a CR2032 coin cell.
 
 ## Watch it working
 
-<video src="video.mp4" controls width="100%"></video>
+[![Watch the video](main.jpg)](video.mp4)
 
-Or [download the video](video.mp4)
+**▶ Click the image above to watch the video of the star blinking**
+
+Or open the video directly: [video.mp4](video.mp4)
 
 ---
 
