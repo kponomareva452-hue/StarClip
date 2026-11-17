@@ -5,7 +5,7 @@ Variable-speed blinking LED star PCB designed in KiCad.
 A 5-pointed star with 5 LEDs driven by a 555 timer.
 Speed is controlled by a potentiometer. Powered by a CR2032 coin cell.
 
-![Finished StarLight](main.jpg)
+![Finished StarClip](main.jpg)
 ![3D Front](front.png)
 ![PCB Editor](pcbEditor.png)
 
